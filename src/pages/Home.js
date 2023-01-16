@@ -96,7 +96,7 @@ const Home = () => {
                   </div>
                 </div>
                 <div className='d-flex align-items-center gap-15'>
-                  <img src='images/service-05.png' alt=''services />>
+                  <img src='images/service-05.png' alt=''services />
                   <div>
                     <h6>Pagesa te sigurta</h6>
                     <p className='mb-0'>100% te sigurta</p>
@@ -178,6 +178,18 @@ const Home = () => {
                 </div>
               </div>
               
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className='marque-wrapper py-5'>
+        <div className='container-xxl'>
+          <div className='row'>
+            <div className='col-12'>
+              <div className='marquee-inner-wrapper card-wrapper text-center'>
+                
+              </div>
             </div>
           </div>
         </div>
